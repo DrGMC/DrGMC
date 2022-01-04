@@ -2,8 +2,9 @@
 
 Hi there 👋
 
-![image](https://user-images.githubusercontent.com/47373280/148069945-2fdcd93f-069e-42bc-87da-2d1a2976c194.png)
+<a href="https://www.tensorflow.org" rel="nofollow"><img src="https://camo.githubusercontent.com/5c6b7c7089d3f5332192f7e90af7a60f7b143a18fc16eee6f031b478d74309d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
 ![image](https://user-images.githubusercontent.com/47373280/148071422-edbf5cb8-77f4-4ec0-ae51-432dd01e36e7.png)
+<a href="https://www.tensorflow.org" rel="nofollow"><img src="https://camo.githubusercontent.com/5c6b7c7089d3f5332192f7e90af7a60f7b143a18fc16eee6f031b478d74309d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.tensorflow.org" rel="nofollow"><img src="https://camo.githubusercontent.com/5c6b7c7089d3f5332192f7e90af7a60f7b143a18fc16eee6f031b478d74309d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" style="max-width: 100%;"></a>
 ![image](https://user-images.githubusercontent.com/47373280/148071447-32e5e7b9-a864-416d-9e3f-546c24452ff5.png)
 ![image](https://user-images.githubusercontent.com/47373280/148071462-f22ce527-c8dd-4761-8f74-54e50b71d443.png)
