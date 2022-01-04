@@ -1,5 +1,5 @@
 ### Hi there 👋
-#js-pjax-container .container-xl.px-3.px-md-4.px-lg-5 .Layout.Layout--flowRow-until-md.Layout--sidebarPosition-start.Layout--sidebarPosition-flowRow-start .Layout-main div .position-relative .Box.mt-4 .Box-body.p-4 .markdown-body.entry-content.container-lg.f5 p a img 
+![image](https://user-images.githubusercontent.com/47373280/148069945-2fdcd93f-069e-42bc-87da-2d1a2976c194.png)
 
 <!--
 **DrGMC/DrGMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
