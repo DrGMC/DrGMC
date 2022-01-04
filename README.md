@@ -24,9 +24,9 @@ Hi there 👋
 ![image](https://user-images.githubusercontent.com/47373280/148072042-7878e9d6-90b2-4409-a4b7-50ce652070ba.png)
 
 
-### **DrGMC/DrGMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!--- ### **DrGMC/DrGMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-<!--- Here are some ideas to get you started:--->
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
